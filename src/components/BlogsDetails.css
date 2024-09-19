@@ -1,0 +1,45 @@
+.card {
+  width: 35%;
+  margin: 0 auto;
+  height: auto;
+  min-height: 250px;
+}
+
+.card-title {
+  font-size: 1em;
+  font-weight: 800;
+}
+
+.card-aut-cat {
+  margin-top: 2px;
+  font-size: 0.9em;
+}
+
+.itl {
+  font-style: italic;
+}
+
+.bld {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.pos-date {
+  margin-bottom: 10px;
+}
+
+.conten {
+  font-size: 0.8em;
+  font-weight: 400;
+}
+
+.alltag {
+  margin-top: 5px;
+  font-size: 0.7em;
+}
+
+.tag-style {
+  margin-right: 10px;
+  color: blue;
+  text-decoration: underline;
+}

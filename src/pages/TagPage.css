@@ -1,0 +1,26 @@
+.tag-items {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  gap: 10px;
+  padding-top: 20px;
+  margin-left: 500px;
+}
+
+.back-btn {
+  background-color: aqua;
+  padding: 2px 10px;
+  border-radius: 5px;
+}
+
+.tag-blog {
+  font-size: 1.1em;
+  font-weight: 800;
+  gap: 10px;
+}
+
+.tag-ind {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
